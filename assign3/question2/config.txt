@@ -1,0 +1,3 @@
+maximum number of concurrent requests = 5
+Blocked IP addresses = 172.16.26.244
+Default file = default.html
